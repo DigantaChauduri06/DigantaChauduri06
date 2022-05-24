@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/digantachauduri06](https://dev.to/digantachauduri06)
 
-- 💬 Ask me about **Reactjs, Nodejs,**
+- 💬 Ask me about **Reactjs, Nodejs, React-Native**
 
 - 📫 How to reach me **digantachaudhuri03@gmail.com**
 
