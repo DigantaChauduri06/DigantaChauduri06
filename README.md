@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digantachauduri06" alt="digantachauduri06" /></a> </p> -->
 
-- 👨‍💻 Portfolio link➡️ [https://digantachaudhuri.netlify.app/](https://digantachaudhuri.netlify.app/)
+- 👨‍💻 Portfolio link ➡️ [https://digantachaudhuri.netlify.app/](https://digantachaudhuri.netlify.app/)
 
 - 📝 I regularly write articles on [https://dev.to/digantachauduri06](https://dev.to/digantachauduri06)
 
